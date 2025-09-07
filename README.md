@@ -28,7 +28,7 @@ It integrates with the **TMDB API** to fetch **real-time data** and demonstrates
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/flick-finder.git
+   git clone https://github.com/jayrhalani/flick_finder.git
    ```
 2. Install dependencies:
 
